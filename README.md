@@ -25,10 +25,14 @@ Read [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 6. [Day 6 -- Sentence Cap + Word Reversal + Anagram](./day6/) -- [http://codetoexpress.tech/dc/day6/](http://codetoexpress.tech/dc/day6/)
 7. [Day 7 -- One Edit Away](./day7/) -- [http://codetoexpress.tech/dc/day7/](http://codetoexpress.tech/dc/day7/)
 8. [Day 8 -- Minimum Edit Distance](./day8/) -- [http://codetoexpress.tech/dc/day8/](http://codetoexpress.tech/dc/day8/)
+9. [Day 9 -- Smallest Substring Problem](./day9/) -- [http://codetoexpress.tech/dc/day9/](http://codetoexpress.tech/dc/day9/)
+10. [Day 10 -- String Permutation Problem](./day10/) -- [http://codetoexpress.tech/dc/day10/](http://codetoexpress.tech/dc/day10/)
+11. [Day 11 -- Longest Common Substring](./day11/) -- [http://codetoexpress.tech/dc/day11/](http://codetoexpress.tech/dc/day11/)
+12. [Day 12 -- Substring Search Algorithms](./day12/) -- [http://codetoexpress.tech/dc/day12/](http://codetoexpress.tech/dc/day12/)
+13. [Day 13-- Factorial and Fibonacci](./day13/) -- [http://codetoexpress.tech/dc/day13/](http://codetoexpress.tech/dc/day13/)
 
 ## Timeline
 
 <p align="center">
   <img src="./timeline.png" alt="timeline">
 </p>
-
